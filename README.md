@@ -4,4 +4,4 @@
 
 A small meditation app that will demonstrate the sounds and looks of the beach or a rainy cozy day. Enjoy!
 
-[Live Link](https://meditation-uris.netlify.app/)
+[Live Version](https://meditation-uris.netlify.app/)
